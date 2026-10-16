@@ -1,6 +1,3 @@
--- Cien Lab v1.1.0 | Roblox Studio LocalScript | Android-first authorized configuration UI
--- Place in StarterPlayer > StarterPlayerScripts. Gameplay effects require approved Bindable integrations.
-
 local VERSION = "1.1.0"
 local GUI_NAME = "CienLabGui"
 local Players = game:GetService("Players")
